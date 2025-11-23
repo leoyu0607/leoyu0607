@@ -12,7 +12,7 @@
 
 Hi! I'm LeoYu.
 
-I'm from Taichung,Taiwan,
+I'm from Taichung,Taiwan.Now is a system engineer from Ai3 company.
 
 Graduate from National Taipei University of Eduvation Computer Sciense.
 
