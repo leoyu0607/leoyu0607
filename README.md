@@ -2,17 +2,21 @@
 
 嗨！我是LeoYu。
 
-台中人，目前就讀於國立台北教育大學資訊科學系。
+台中人，目前在Ai3擔任高級系統工程師。
 
-大四，軟體開發、程式設計。
+畢業於國立台北教育大學資訊科學系。
+
+主要方向在系統維運、軟體開發、程式設計。
 
 喜歡FPS遊戲！
 
 Hi! I'm LeoYu.
 
-I'm from Taichung,Taiwan,now study computer science in National Taipei University of Eduvation.
+I'm from Taichung,Taiwan,
 
-used to software develope.
+Graduate from National Taipei University of Eduvation Computer Sciense.
+
+used to system maintain,software develope.
 
 I love fps game,like Valorant.
 
