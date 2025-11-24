@@ -30,7 +30,7 @@ I love fps game,like Valorant.
   * Group Link : [Facebook](https://www.facebook.com/DSCNTUE) / [Instagram](https://www.instagram.com/dsc_ntue/)
 * ***NTUE Information Research Club*** 16th Vice Director
   * Group Link : [Facebook](https://www.facebook.com/ntueIRC) / [Instagram](https://www.instagram.com/ntueirc/)
-* Ai3 人工智能股份有限公司 - 雲端實習生(Cloud Intern) (2024.03 ~ )
+* Ai3 人工智能股份有限公司 - 高級系統工程師(System Engineer) (2024.03 ~ )
   * Company Link : [Website](https://ai3.cloud/)
 <!--置頂專案-->
 
@@ -47,6 +47,7 @@ I love fps game,like Valorant.
 - MySQL
 - Linux
 - Bash
+- Rust
 <!--- PHP-->
 <!--- JSP-->
 <!--- Arduino-->
