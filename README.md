@@ -64,11 +64,11 @@ I love fps game,like Valorant.
  LinkedIn : [leoyu0607](https://www.linkedin.com/in/leoyu0607/)
  
  Discord : `leoyu0607`
-
+<!--
 <h2 align = "center">
   Github stats
 </h2>
-
+-->
 <!--[![leoyu0607's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyu0607)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyu0607&layout=compact&hide=scss,vue&count_private=true)
