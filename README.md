@@ -67,4 +67,4 @@ used to system maintain,software develope.
 -->
 <!--[![leoyu0607's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyu0607)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyu0607&layout=compact&hide=scss,vue&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyu0607&layout=compact&hide=scss,vue&count_private=false)
