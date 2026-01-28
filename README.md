@@ -8,8 +8,6 @@
 
 主要方向在系統維運、軟體開發、程式設計。
 
-喜歡FPS遊戲！
-
 Hi! I'm LeoYu.
 
 I'm from Taichung,Taiwan.Now is a system engineer from Ai3 company.
@@ -17,8 +15,6 @@ I'm from Taichung,Taiwan.Now is a system engineer from Ai3 company.
 Graduate from National Taipei University of Eduvation Computer Sciense.
 
 used to system maintain,software develope.
-
-I love fps game,like Valorant.
 
 <!--經歷-->
 <h2 align = "center">
