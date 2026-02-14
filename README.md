@@ -44,6 +44,7 @@ used to system maintain,software develope.
 - Linux
 - Bash
 - Rust
+- GO
 <!--- PHP-->
 <!--- JSP-->
 <!--- Arduino-->
